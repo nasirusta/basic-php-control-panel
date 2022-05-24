@@ -1,0 +1,36 @@
+.multiselect-container{position:absolute;list-style-type:none;margin:0;padding:0}
+.multiselect-container .input-group{margin:5px}
+.multiselect-container>li{padding:0}
+.multiselect-container>li>a.multiselect-all label{font-weight:700}
+.multiselect-container>li.multiselect-group label{margin:0;padding:3px 20px 3px 20px;height:100%;font-weight:700}
+.multiselect-container>li.multiselect-group-clickable label{cursor:pointer}
+.multiselect-container>li>a{padding:0}
+.multiselect-container>li>a>label{margin:0;height:100%;cursor:pointer;font-weight:400;padding:3px 20px 3px 40px}
+.multiselect-container>li>a>label.radio,.multiselect-container>li>a>label.checkbox{margin:0}
+.multiselect-container>li>a>label>input[type=checkbox]{margin-bottom:5px}
+.btn-group>.btn-group:nth-child(2)>.multiselect.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}
+.form-inline .multiselect-container label.checkbox,.form-inline .multiselect-container label.radio{padding:3px 20px 3px 40px}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox],.form-inline .multiselect-container li a label.radio input[type=radio]{margin-left:-20px;margin-right:0}
+.nas .checkbox input[type="checkbox"] {
+    cursor: pointer;
+    opacity: 1;
+    z-index: 1;
+    outline: none !important;
+}
+.nas .btn-default, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open > .dropdown-toggle.btn-default {
+    background-color:#313131 !important;
+    border:1px solid #313131 !important;
+}
+.nas .dropdown-menu {
+    padding:4px 0;
+    -webkit-animation-duration:1s;
+    animation-duration:1s;
+    -webkit-animation-fill-mode:both;
+    animation-fill-mode:both;
+    border:0;
+    border:1px solid #e7e7e7;
+    padding:15px 0;
+    -webkit-animation-name:none;
+    animation-name:none;
+    box-shadow:0px 1px 1px rgba(0, 0, 0, 0.1);
+}

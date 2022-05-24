@@ -1,0 +1,122 @@
+.bilgiler .table-responsive .say{
+	width:50px;
+}
+.bilgiler .table-responsive td{
+	width:200px;
+}
+.bilgiler .table-responsive td:nth-child(4){
+	width:100px;
+}
+.bilgiler .table-responsive td:last-child{
+	width:100px;
+}
+.edit-row{
+    padding:8px;
+    font-size:16px;
+}
+.remove-row{
+    padding:8px;
+    color:#ce0000;
+    font-size:16px;
+}
+.cancel-row{
+    padding:8px;
+    color:#ce0000;
+    font-size:16px;
+	margin-left:3px;
+}
+.save-row{
+    padding:8px;
+    color:#33b86c;
+    font-size:16px;
+}
+.save-row2{
+    padding:8px;
+    color:#33b86c;
+    font-size:16px;
+}
+.iletisim-formu .table-responsive .say{
+	width:50px;
+}
+.iletisim-formu .table-responsive td{
+	width:200px;
+}
+.iletisim-formu .table-responsive td:nth-child(4){
+	width:100px;
+}
+.iletisim-formu .table-responsive td:nth-child(2){
+	width:120px;
+}
+.iletisim-formu .table-responsive td:last-child{
+	width:100px;
+}
+.iletisim-formu .table-responsive .say{
+	width:50px;
+}
+.edit-row-form{
+    padding:8px;
+    font-size:16px;
+}
+.remove-row-form{
+    padding:8px;
+    color:#ce0000;
+    font-size:16px;
+}
+.cancel-row-form{
+    padding:8px;
+    color:#ce0000;
+    font-size:16px;
+	margin-left:3px;
+}
+.save-row-form{
+    padding:8px;
+    color:#33b86c;
+    font-size:16px;
+}
+.save-row2-form{
+    padding:8px;
+    color:#33b86c;
+    font-size:16px;
+}
+.mail-ayarlari{
+    display:inline-block;
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

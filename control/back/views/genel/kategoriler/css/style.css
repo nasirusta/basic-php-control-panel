@@ -1,0 +1,12 @@
+.kategori-liste{
+    display:inline-block;
+    width:100%;
+}
+.kategori-liste .delete-button{
+	color:#d20909;
+	margin-left:10px;
+	font-size:17px;
+}
+.kategori-liste .edit-button{
+	font-size:17px;
+}
